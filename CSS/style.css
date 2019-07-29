@@ -1,0 +1,14 @@
+body {
+    background: lightblue;
+}
+
+h3, h5 {
+    font-family: tahoma;
+    font-weight: bold;
+    margin: 35px;
+}
+p {
+    margin-left: 30px;
+    color: navy;
+    font-family: arial;
+}
