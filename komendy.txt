@@ -1,0 +1,7 @@
+$ autoprefixer-cli -o style.prefixed.css CSS/style.css
+$ nu-html-checker *.html
+index.html
+1:16     error  Bogus doctype.
+1:1-25   error  Quirky doctype. Expected “<!DOCTYPE html>”.
+9:32-36  error  End tag “h4” seen, but there were open elements.
+

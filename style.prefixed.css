@@ -1,0 +1,17 @@
+body {
+    background: lightblue;
+}
+
+h3, h5 {
+    font-family: Verdana;
+    font-weight: bold;
+    margin: 35px;
+}
+p {
+    margin-left: 30px;
+    color: #000080;
+    font-family: arial;
+}
+a {
+    color: green;
+}
